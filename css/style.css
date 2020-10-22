@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+body {
+    background: lightgrey;
+}
+
+.container {
+        background: url(../images/laptop-coffee.png) no-repeat;
+        background-attachment: fixed ;
+	    background-position: top center;
+        width: 100%;
+        padding-bottom: 100px;
+        padding-right: -30px;
+        padding-left: -30px;
+       
+}
+
+.mid{
+	width: 1250px;
+	margin: 0 auto;
+	background: rgba(150, 140, 153, 0.5);
+}
+    
+
+.second__title{
+    color: darkslategray;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+.menu__item {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    color: #fff;
+    background: #333;
+    tansition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear; 
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 25px;
+    color: darkslategray;
+}
+
+h2{
+    color: whitesmoke;
+    margin-top: 40px;
+}
+
+.main__text h2{
+    color: black;
+    margin-top: 300px;
+    font-size: 45px;
+}
+
+.block__left {
+    background: #bdb6b6;
+    padding: 30px 15px;
+}
+
+h3 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.menu__title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.block__center {
+    background: lightsteelblue;
+    padding: 30px 15px;
+    
+}
+
+.block__right {
+    background: #bdb6b6;
+    padding: 30px 15px;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 60px;
+    color: darkslategray;
+}
+
+.skills__1{
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 15px;
+}
+
+.skills__2{
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 15px;
+}
+
+.picture__brain {
+    width: 80%;
+    height: 80%;
+    margin-top: 30px;
+}
+
+h6 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkslategray;
+    margin-top: 70px;
+}
+
+.my__photo {
+    margin-left: 70px;
+}
+
+.edu__item {
+    margin-top: 0;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    padding-bottom: -40px;
+}
+
+.edu__item-2 {
+    padding-top: -60px;
+}
+
+.exp__item {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+}
+
+.exp__text-2 {
+    padding-top: 20px;
+}
+
+.exp__text-3 {
+    padding-top: 20px;
+}
+
+.hob__item {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+}
+
+.hob__item-2 {
+    padding-top: 20px;
+    
+}
+
+.container__footer {
+    background: black;
+    padding-bottom: 200px;
+}
+
+.img__phone {
+   width: 300%;
+   height: 300%;
+}
